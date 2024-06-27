@@ -2,7 +2,13 @@
 
 ![Proof HTML](https://github.com/rayen-mneja/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+# Welcome to Blog respository
+They say if you write it down half of the problem is solved
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+So i made the reapo with no code stay tunes 🤣
+
+-Ali
+---
+
+
+"whisper to @sangour: ya 5ra ibda codi 7aga"
